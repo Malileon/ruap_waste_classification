@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JFD9x15cZpsA7A33mHz9k3Q7+4iRvJeHsubiQ4csvLr9G2X7Unke9h+W8JMILvLkpBXxpbjP33mm/EAoE8B8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Ruap projekt\\ruap_waste_classification\\Waste Recognition\\Waste Recognition\\Waste Recognition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

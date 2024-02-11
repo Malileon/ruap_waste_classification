@@ -1,0 +1,60 @@
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.exe
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.deps.json
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.runtimeconfig.json
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Form1.resources
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\refint\Fish recognition.dll
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.genruntimeconfig.cache
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\ref\Fish recognition.dll
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CopyComplete
+C:\Users\Stefan\source\repos\Fish recognition\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Properties.Resources.resources
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.exe
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.deps.json
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.runtimeconfig.json
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Form1.resources
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Properties.Resources.resources
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CopyComplete
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\refint\Fish recognition.dll
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\rssv\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\ref\Fish recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.exe
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.deps.json
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Form1.resources
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish_recognition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\refint\Fish recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.pdb
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\Fish recognition.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ruap projekt\RUAP_Projekt_Vucko_Smoljo_Ugljesic\Fish recognition c#\Fish recognition\obj\Debug\net6.0-windows\ref\Fish recognition.dll

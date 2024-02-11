@@ -1,0 +1,40 @@
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.exe
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.deps.json
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.runtimeconfig.json
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.dll
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.pdb
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste_recognition.Form1.resources
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste_recognition.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.dll
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\refint\Waste Recognition.dll
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.pdb
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\ref\Waste Recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.exe
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.deps.json
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Waste Recognition.pdb
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste_recognition.Form1.resources
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste_recognition.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\refint\Waste Recognition.dll
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.pdb
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\Waste Recognition.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Ruap projekt\ruap_waste_classification\Waste Recognition\Waste Recognition\obj\Debug\net6.0-windows\ref\Waste Recognition.dll
